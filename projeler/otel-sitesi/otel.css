@@ -1,0 +1,24 @@
+body {
+  background-color: #f0f0f0;  /* arka plan rengi */
+  font-size: 22px               /* yazı boyutu */;
+}
+p {
+  color: #000000;          /* yazı rengi */
+  margin: 20px;              /* kenar boşluk */
+  font-size: 23px               /* yazı boyutu */;
+}
+h3 {
+  
+  font-size: 30px               /* yazı boyutu */;
+}
+li strong {
+        color: rgb(246, 119, 0);
+}
+footer strong {
+        color: green;
+}
+header h1 {
+  color: #2c3e50;          /* yazı rengi */
+  text-align: center;             /* metin hizalaması */
+  font-size: 36px               /* yazı boyutu */;
+}
