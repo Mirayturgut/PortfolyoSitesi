@@ -1,6 +1,6 @@
 body {
   background-image: url("../../../image/aydınlıkyol.png"); 
-  font-size: 20px;
+  font-size: 30px;
   text-align: center;
   color: white;
   background-repeat: no-repeat;   /* tekrar etme */
@@ -9,8 +9,8 @@ body {
 }
 img
 {
-  width: 340px;
-  height: 300px;
+  width: 440px;
+  height: 400px;
   border-radius: 20px;
   text-align: center;
 }
