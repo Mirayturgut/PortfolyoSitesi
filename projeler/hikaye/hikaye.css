@@ -1,7 +1,7 @@
 header{
   text-align: center;
   margin: 20px;
-  font-size: 35px;
+  font-size: 30px;
 
 }
 body {
@@ -21,11 +21,11 @@ main {
 header h2 {
   text-align: center;
   margin: 20px;
-  font-size: 50px;
+  font-size:25px;
 }
 main img {
-  width: 600px;
-  height: 630px;
+  width: 400px;
+  height: 430px;
   border-radius: 20px;
   text-align: center;
 }
