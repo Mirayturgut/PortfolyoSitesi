@@ -6,6 +6,10 @@ header{
 }
 body {
   background-image: url("../../image/sisliormanpng.png"); 
+  color: rgba(211, 211, 211, 0.953);
+    background-repeat: no-repeat;   /* tekrar etme */
+  background-position: center;    /* ortala */
+  background-size: cover;         /* ekranı kaplayacak şekilde ölçekle */
 }
 main {
   display: flex;
@@ -20,8 +24,8 @@ header h2 {
   font-size: 50px;
 }
 main img {
-  width: 300px;
-  height: 230px;
+  width: 600px;
+  height: 630px;
   border-radius: 20px;
   text-align: center;
 }
